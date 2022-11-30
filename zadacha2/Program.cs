@@ -1,4 +1,4 @@
-﻿Console.Write("Введите два числа и я покажу что больше, а что меньше: ");
+﻿Console.Write("Введите два числа через пробел и я покажу что больше, а что меньше: ");
 
 var input = Console.ReadLine();
 var space = input.Split(" ");
